@@ -4,6 +4,8 @@
 - - Implemented custom character device driver in C with kernel module support
 - - Demonstrated understanding of hardware abstraction layers and cross-compilation toolchains 
 
+# Folder Structure
+
 
 
 # QEMU Hardware Emulation Lab
